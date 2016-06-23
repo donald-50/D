@@ -14,7 +14,7 @@ System.config({
   },
 
   map: {
-    "E": "github:donald-50/E@1.0.0",
+    "E": "github:donald-50/E@1.0.1",
     "babel": "npm:babel-core@5.8.38",
     "babel-runtime": "npm:babel-runtime@5.8.38",
     "core-js": "npm:core-js@1.2.6",
